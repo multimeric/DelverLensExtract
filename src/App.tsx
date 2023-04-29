@@ -1,8 +1,7 @@
-import React, { useEffect, useState } from 'react';
-import './App.css';
-import sqlite3InitModule from '@sqlite.org/sqlite-wasm';
 import { ZipArchive } from "@shortercode/webzip";
-import { CSVLink, CSVDownload } from "react-csv";
+import sqlite3InitModule from '@sqlite.org/sqlite-wasm';
+import { useEffect, useState } from 'react';
+import { CSVLink } from "react-csv";
 
 
 async function process(apk: FileList, dlens: FileList): Promise<any[]> {

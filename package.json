@@ -2,6 +2,7 @@
   "name": "delver_lens_extract",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://multimeric.github.io/DelverLensExtract",
   "dependencies": {
     "@shortercode/webzip": "^0.1.0",
     "@sqlite.org/sqlite-wasm": "^3.41.2-build12",
