@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/DelverLensExtract/static/js/main.31250c36.js",
+    "static/js/657.fa3e7d02.chunk.js": "/DelverLensExtract/static/js/657.fa3e7d02.chunk.js",
+    "static/media/sqlite3.wasm": "/DelverLensExtract/static/media/sqlite3.fda6f55f3316e5f1013e.wasm",
+    "index.html": "/DelverLensExtract/index.html",
+    "main.31250c36.js.map": "/DelverLensExtract/static/js/main.31250c36.js.map",
+    "657.fa3e7d02.chunk.js.map": "/DelverLensExtract/static/js/657.fa3e7d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31250c36.js"
+  ]
+}
